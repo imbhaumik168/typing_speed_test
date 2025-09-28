@@ -85,6 +85,6 @@ This **Typing Speed Test** is an excellent tool to **improve typing speed and ac
 - **Leaderboard system** to track top performances. 🏆  
 - **Support for multiple languages** for more typing variety. 🌍  
 
-## checkout https://wordrush.vercel.app/
+## checkout https://typingmaster.gt.tc/
 
 Enjoy typing! 🎯
